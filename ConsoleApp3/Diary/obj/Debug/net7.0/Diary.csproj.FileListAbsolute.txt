@@ -1,0 +1,17 @@
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\bin\Debug\net7.0\Diary.exe
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\bin\Debug\net7.0\Diary.deps.json
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\bin\Debug\net7.0\Diary.runtimeconfig.json
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\bin\Debug\net7.0\Diary.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\bin\Debug\net7.0\Diary.pdb
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.csproj.AssemblyReference.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.AssemblyInfoInputs.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.AssemblyInfo.cs
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.csproj.CoreCompileInputs.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.csproj.CopyComplete
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\refint\Diary.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.pdb
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\Diary.genruntimeconfig.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Diary\obj\Debug\net7.0\ref\Diary.dll

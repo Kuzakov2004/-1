@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1YDS7gK+2nloW0w3BG3Zcil5h+cETcapZm/BDttFiPBvEBMv4LTNBv+GKPVQHmXOEYCDwl6o3MpDqo6E8Kwow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gr624_kudal\\RiderProjects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gr624_kudal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\bin\Debug\net7.0\Task3.3.exe
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\bin\Debug\net7.0\Task3.3.deps.json
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\bin\Debug\net7.0\Task3.3.runtimeconfig.json
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\bin\Debug\net7.0\Task3.3.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\bin\Debug\net7.0\Task3.3.pdb
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\Task3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\Task3.3.AssemblyInfoInputs.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\Task3.3.AssemblyInfo.cs
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\Task3.3.csproj.CoreCompileInputs.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\Task3.3.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\refint\Task3.3.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\Task3.3.pdb
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\Task3.3.genruntimeconfig.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task3.3\obj\Debug\net7.0\ref\Task3.3.dll
