@@ -1,0 +1,14 @@
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\bin\Debug\net7.0\Task6.4.exe
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\bin\Debug\net7.0\Task6.4.deps.json
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\bin\Debug\net7.0\Task6.4.runtimeconfig.json
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\bin\Debug\net7.0\Task6.4.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\bin\Debug\net7.0\Task6.4.pdb
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\Task6.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\Task6.4.AssemblyInfoInputs.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\Task6.4.AssemblyInfo.cs
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\Task6.4.csproj.CoreCompileInputs.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\Task6.4.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\refint\Task6.4.dll
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\Task6.4.pdb
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\Task6.4.genruntimeconfig.cache
+C:\Users\gr624_kudal\RiderProjects\ConsoleApp3\Task6.4\obj\Debug\net7.0\ref\Task6.4.dll
